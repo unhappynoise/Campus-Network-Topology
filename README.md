@@ -36,9 +36,3 @@ Understanding packet flow across switches, routers, and wireless APs
 
 Identifying and fixing misconfigurations through simulation
 
-If you want, I can also generate:
-
-✅ A professional GitHub-style header with badges
-✅ A “How to Use This Project” section
-✅ A “Future Improvements” section
-✅ A short description for the GitHub repository itself
