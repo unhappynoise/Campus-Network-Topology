@@ -2,7 +2,7 @@ Two-Campus Network Simulation (Packet Tracer)
 
 This project simulates communication between two campuses using VLANs, routing, access points, and multiple networking devices.
 
-Features
+Features:
 
 VLAN configuration
 
@@ -16,14 +16,14 @@ Packet transmission demonstration
 
 Wireless + wired communication
 
-Files Included
+Files Included:
 
 School Campus.pkt – Full Packet Tracer topology
 
 net_topology.png – Network diagram
 
 
-What I Learned
+What I Learned:
 
 Troubleshooting routing issues
 
