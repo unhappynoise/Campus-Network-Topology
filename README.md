@@ -1,8 +1,8 @@
-Two-Campus Network Simulation (Packet Tracer)
+Two-Campus Network Simulation (Cisco Packet Tracer)
 
-This project simulates communication between two campuses using VLANs, routing, access points, and multiple networking devices.
+This project simulates communication between two separate campuses using VLANs, routing, wireless access points, and multiple networking devices. It demonstrates how packets move across a structured network and how different devices communicate through routers and switches.
 
-Features:
+🔧 Features
 
 VLAN configuration
 
@@ -10,25 +10,35 @@ Inter-VLAN routing
 
 Switch-to-switch trunking
 
-Router-on-a-stick
+Router-on-a-Stick
 
-Packet transmission demonstration
+Subnetting for multiple networks
 
-Wireless + wired communication
+Wireless + wired device communication
 
-Files Included:
+Packet transmission visualization (Simulation Mode)
+
+📁 Files Included
 
 School Campus.pkt – Full Packet Tracer topology
 
 net_topology.png – Network diagram
 
+📚 What I Learned
 
-What I Learned:
+How to troubleshoot routing & VLAN issues
 
-Troubleshooting routing issues
+Designing IP addressing for multi-network setups
 
-VLAN & IP design
+Subnetting practically
 
-Subnetting
+Understanding packet flow across switches, routers, and wireless APs
 
-How packets move across a multi-network environment
+Identifying and fixing misconfigurations through simulation
+
+If you want, I can also generate:
+
+✅ A professional GitHub-style header with badges
+✅ A “How to Use This Project” section
+✅ A “Future Improvements” section
+✅ A short description for the GitHub repository itself
